@@ -1,2 +1,3 @@
 # hello-world
-Hello World tutorial for CS35!
+
+Hi I'm Amberlee and my favorite food is applesauce!
